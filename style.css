@@ -1,0 +1,34 @@
+body{
+    width: 980px;
+    margin: auto;
+}
+
+header, nav, div, footer{
+     background-color: aquamarine;
+}
+
+header{
+    height: 140px;
+    margin-bottom: 20px;
+}
+
+section{
+    display: flex;
+    justify-content: space-between;
+}
+
+nav{
+    height: 450px;
+    width: 270px;
+}
+
+div{
+    width: 675px;
+    padding: 15px 0px 15px 15px;
+}
+
+footer{
+    margin-top: 20px;
+    width: 100%;
+    height: 70px;
+}
